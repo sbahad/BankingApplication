@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <CodeAnalysisRuleSet>C:\Users\sabahadur\OneDrive - Microsoft\Trainings\csharp\Basics\Code\Temp\BankingApplication\BankingApplication\BuildSupport\Strict.CodeAnalyzer.Ruleset.xml</CodeAnalysisRuleSet>  
+  </PropertyGroup>
+	
+</Project>
